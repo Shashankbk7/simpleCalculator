@@ -3,10 +3,12 @@ Simple Calculator built with React Native (Expo) and used Redux Toolkit(Dark Mod
 
 ## APK File
 https://myportfoliobucket007.s3.ap-south-1.amazonaws.com/Calculator.apk
-##Screenshots
+
+## Screenshots
 
 <img src="https://user-images.githubusercontent.com/54579621/221428844-da4c0680-aa2f-44c4-8b44-5a437917cea5.png" width="150" height="325">
 <img src="https://user-images.githubusercontent.com/54579621/221428870-f4b59b17-5777-4d2d-8c01-a288af04c7e3.png" width="150" height="325">
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -46,5 +48,5 @@ This will start the Expo development server and open the Expo client in your bro
 * <a href='https://legendapp.com/open-source/motion/'>Legend Motion</a>
 
 ### Author
-<a href="https://github.com/Shashankbk7" target="_new">Abhilash Malkar</a>
+<a href="https://github.com/Shashankbk7" target="_new">Shashank BK</a>
 

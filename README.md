@@ -28,14 +28,12 @@ git clone https://github.com/Shashankbk7/simpleCalculator
 ```
 cd simpleCalculator
 npm install
-
 ```
 
 3. Start the application(Select i for ios or a for android and r for reload)
 
 ```
 npm start
-
 ```
 
 This will start the Expo development server and open the Expo client in your browser. You can use the Expo client to run the app on your mobile device or an emulator.
